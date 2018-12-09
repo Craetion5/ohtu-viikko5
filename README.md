@@ -1,6 +1,6 @@
 # ohtu-viikko5
 
-Viikolla 6 tehtävä 1 tehty
+Viikolla 6 tehtävä 3 tehty
 
 
 (viikko5)
